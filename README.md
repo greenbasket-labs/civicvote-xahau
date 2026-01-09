@@ -147,3 +147,50 @@ int64_t hook(uint32_t reserved)
     // --------------------------------------------------
     return accept(SBUF("Vote accepted"), 0);
 }
+---
+
+## Project Status
+
+Early-stage prototype built for the Xahau Dev Contest (2026).
+
+This project is intended as a reference implementation and learning resource.  
+Further work may include configurable voting parameters and a simple web interface.
+
+---
+
+## Repository
+
+https://github.com/greenbasket-labs/civicvote-xahau
+
+---
+
+## Author
+
+Mohammed Musbahu A.  
+X (Twitter): https://x.com/GreenBasketLabs  
+GitHub: https://github.com/greenbasket-labs  
+Contact: greenbasketgloball@gmail.com
+
+---
+
+## License
+
+---
+
+## Why This README Works (Short)
+
+- Clear in **5 seconds**
+- Honest about scope
+- Invites reuse and learning
+- Shows real protocol thinking
+- Strong for **judges + public + recruiters**
+
+---
+
+### Next Step
+Say **NEXT** and tell me which repo we review next:
+- `basic-voting-contract`
+- `casper-governance-voting`
+- `continuum-protocol`
+
+We’ll apply the **same calm, professional cleanup** repo by repo.
